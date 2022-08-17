@@ -1,0 +1,22 @@
+{
+  "name": "tutoriall",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguloco/prueba-node.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "aguloco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguloco/prueba-node/issues"
+  },
+  "homepage": "https://github.com/aguloco/prueba-node#readme"
+}
